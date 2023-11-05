@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: stock-prediction-barakdiker
+Version: 0.0.1
+Summary: A small example package
+Author-email: Barak Diker <barakdiker@gmail.com>
+Project-URL: Homepage, https://github.com/pypa/sampleproject
+Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+
+
+
+
+# Yeshurun Second Degree final project 
+This project will create backtest for comparing 2 investing strategies 
+the first is 'Buy N Hold '
+the second is prediction via regression 
+
+## This project is an extension of cash_analysis 
+
+here is the link for the parent project 
+[CashAnalysis](https://barakdiker123.github.io/CashAnalysis/)
+
+
+## Credits 
+
+* Barak Nadav Diker 
+* Yeshurun 

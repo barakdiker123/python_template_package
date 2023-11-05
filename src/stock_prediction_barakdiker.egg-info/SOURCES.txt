@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/stock_prediction_barakdiker/__init__.py
+src/stock_prediction_barakdiker/regression_calculator.py
+src/stock_prediction_barakdiker.egg-info/PKG-INFO
+src/stock_prediction_barakdiker.egg-info/SOURCES.txt
+src/stock_prediction_barakdiker.egg-info/dependency_links.txt
+src/stock_prediction_barakdiker.egg-info/top_level.txt
