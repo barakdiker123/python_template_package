@@ -3,6 +3,9 @@
 
 
 # Yeshurun Second Degree final project 
+Creating a backtest for comparing augmented linear regression vs buy and hold 
+
+## More info 
 This project will create backtest for comparing 2 investing strategies 
 the first is 'Buy N Hold '
 the second is prediction via regression 
@@ -12,7 +15,7 @@ the second is prediction via regression
 here is the link for the parent project 
 [CashAnalysis](https://barakdiker123.github.io/CashAnalysis/)
 
-## How to install N Upload packages 
+# How to install N Upload packages 
 For exporting the environment one should 
 
 ``` sh
